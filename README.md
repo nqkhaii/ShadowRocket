@@ -27,8 +27,7 @@ File cấu hình Shadowrocket tất cả trong một: Chặn quảng cáo, Tăng
 ## 📦 Link cài đặt (Raw URL)
 
 Sao chép đường link bên dưới và thêm vào Shadowrocket:
-https://raw.githubusercontent.com/Tên_GitHub_Của_Bạn/Tên_Repo/main/Shadowrocket_Vip.conf
-*(⚠️ **Lưu ý:** Thay thế link trên bằng link Raw thực tế từ file .conf bạn vừa tạo)*
+https://github.com/nqkhaii/ShadowRocket
 
 ## ⚙️ Hướng dẫn cài đặt quan trọng (Bắt buộc)
 
